@@ -1,6 +1,6 @@
 # Übungsprojekt Space Station :rocket:
 
-Dieses Repository enthält das Übungsprojekt für die Clean Code Kompakt Schulung.
+Dieses Repository enthält das Übungsprojekt für Clean Code Workshops der viadee Unternehmensberatung AG.
 
 ## Story
 Du bist gerade auf der Raumstation "CCK" eingetroffen.
